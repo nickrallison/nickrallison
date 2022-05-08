@@ -14,7 +14,7 @@
 ### Things I love:
 - C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Electronics ⚡
-- 
+- Exersize 💪
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/nick-allison-46308a214/
