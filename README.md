@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- <h3> Hi, I'm Nick Allison 👋</h3> -->
-### Hi, I'm Nick Allison 👋
+### Hi, I'm Nick Allison. I'm an Electrical Engineering and Computer Science student 👋
 [![Linkedin Badge](https://img.shields.io/badge/-nickrallison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-allison-46308a214/)](https://www.linkedin.com/in/nick-allison-46308a214/)
 [![Gmail Badge](https://img.shields.io/badge/-nickrallison1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickrallison1@gmail.com)](mailto:nickrallison1@gmail.com) 
 
