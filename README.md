@@ -30,9 +30,5 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/varadbhogayata
+[linkedin]: https://www.linkedin.com/in/nick-allison-46308a214/
