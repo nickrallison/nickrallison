@@ -12,8 +12,8 @@
 
 
 ### Things I love:
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
+- C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Electronics ✍️
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/nick-allison-46308a214/
