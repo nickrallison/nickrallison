@@ -5,13 +5,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-nickrallison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-allison-46308a214/)](https://www.linkedin.com/in/nick-allison-46308a214/)
 [![Gmail Badge](https://img.shields.io/badge/-nickrallison1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickrallison1@gmail.com)](mailto:nickrallison1@gmail.com) 
 
+<img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
+- 🎓 Currently Studying <a href="https://schulich.ucalgary.ca/electrical-software/">Electrical Enginneering</a> and <a href="https://science.ucalgary.ca/computer-science">Computer Science</a> at the University of Calgary
+- 🔧 Completed an internship at <a href="https://www.maparobo.com">Maparobo Inc.</a>, developing with an autonomous landscaping robot.
+- 🤖 Programmed a robot so it does something like this 👉👉
 - 🎯 Portfolio website: [Portfolio](https://nickrallison.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 
 ### Things I love:
+
 - C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Electronics ⚡
 - Learning New Things 📚
