@@ -19,9 +19,6 @@
 - Electronics ⚡
 - Learning New Things 📚
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrallison&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### 💬 Languages I use
 
@@ -38,5 +35,7 @@
     Build Tools: **Cmake, Gradle**
     <br>
     Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrallison&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
  
 
