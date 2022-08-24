@@ -11,8 +11,6 @@
 - 🔧 Completed an internship at <a href="https://www.maparobo.com">Maparobo Inc.</a>, developing with an autonomous landscaping robot.
 - 🤖 Programmed a robot so it does something like this 👉👉
 - 🎯 Portfolio website: [Portfolio](https://nickrallison.github.io/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 
 
 ### Things I love:
