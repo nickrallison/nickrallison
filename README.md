@@ -23,18 +23,17 @@
 ### 💬 Languages I use
 
  - 🖥 I know these a lot (Proficient):
-    **Java, C/C++, Python, HTML/CSS, XML**
+    **Java, C/C++, Python, MATLAB**
  - 💭 I kinda know these (Familiar):
-    **JavaScript, Kotlin, Visual Basic .NET, JSON**
+    **JavaScript, Java Rust**
  - 🔨 Here are some tools that I use:
     <br>
-    Technology: **Arduino, ROS (Robot Operating System), Linux, Android SDK**
+    Technology: **Arduino, ROS Noetic, Linux, PlatformIO**
     <br>
-    Version Control: **Git, SVN**
+    Version Control: **Git**
     <br>
-    Build Tools: **Cmake, Gradle**
     <br>
-    Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
+    Some Designing: **Fusion360, OpenSCAD, LTSpice**
     
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrallison&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
  
