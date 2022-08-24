@@ -25,7 +25,7 @@
  - 🖥 I know these a lot (Proficient):
     **Java, C/C++, Python, MATLAB**
  - 💭 I kinda know these (Familiar):
-    **JavaScript, Java Rust**
+    **JavaScript, Java, Rust**
  - 🔨 Here are some tools that I use:
     <br>
     Technology: **Arduino, ROS Noetic, Linux, PlatformIO**
