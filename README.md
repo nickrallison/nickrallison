@@ -21,3 +21,52 @@
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/nick-allison-46308a214/
+
+
+## You found my GitHub Profile!
+
+<!--
+<p align="center">
+ <img align="center" width="420px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
+</p> 
+-->
+
+Hello, my name is <b>Nick</b>! I'm a robotics enthusiast and  love to ski.
+
+<img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
+
+ - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
+ - 🔧 Completed an internship at <a href="https://www.maparobo.com">Maparobo Inc.</a>, tinkering with an autonomous landscaping robot.
+ - 🤖 Programmed a robot so it does something like this 👉👉
+
+### 💬 Languages I use
+
+ - 🖥 I know these a lot (Proficient):
+    **Java, C/C++, Python, HTML/CSS, XML**
+ - 💭 I kinda know these (Familiar):
+    **JavaScript, Kotlin, Visual Basic .NET, JSON**
+ - 🔨 Here are some tools that I use:
+    <br>
+    Technology: **Arduino, ROS (Robot Operating System), Linux, Android SDK**
+    <br>
+    Version Control: **Git, SVN**
+    <br>
+    Build Tools: **Cmake, Gradle**
+    <br>
+    Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
+ 
+<!--
+### 📫 Find me on LinkedIn!
+<p align="left">
+ <a href=https://www.linkedin.com/in/ethanckim/>
+  <img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
+ </a>
+https://www.linkedin.com/in/ethanckim
+</p>
+<br>
+<br>
+-->
+
+<!--
+[![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanckim&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+-->
