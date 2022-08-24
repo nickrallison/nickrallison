@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-nickrallison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-allison-46308a214/)](https://www.linkedin.com/in/nick-allison-46308a214/)
 [![Gmail Badge](https://img.shields.io/badge/-nickrallison1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickrallison1@gmail.com)](mailto:nickrallison1@gmail.com) 
 
-<img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
+<img align="right" alt="GIF" src="https://github.com/nickrallison/nickrallison/blob/main/lawnmower.gif" />
 
 - 🎓 Currently Studying <a href="https://schulich.ucalgary.ca/electrical-software/">Electrical Enginneering</a> and <a href="https://science.ucalgary.ca/computer-science">Computer Science</a> at the University of Calgary
 - 🔧 Completed an internship at <a href="https://www.maparobo.com">Maparobo Inc.</a>, developing an autonomous landscaping robot.
@@ -22,25 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrallison&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/nick-allison-46308a214/
-
-
-## You found my GitHub Profile!
-
-<!--
-<p align="center">
- <img align="center" width="420px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
-</p> 
--->
-
-Hello, my name is <b>Nick</b>! I'm a robotics enthusiast and  love to ski.
-
-<img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
-
- - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
- - 🔧 Completed an internship at <a href="https://www.maparobo.com">Maparobo Inc.</a>, tinkering with an autonomous landscaping robot.
- - 🤖 Programmed a robot so it does something like this 👉👉
 
 ### 💬 Languages I use
 
@@ -58,18 +39,4 @@ Hello, my name is <b>Nick</b>! I'm a robotics enthusiast and  love to ski.
     <br>
     Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
  
-<!--
-### 📫 Find me on LinkedIn!
-<p align="left">
- <a href=https://www.linkedin.com/in/ethanckim/>
-  <img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
- </a>
-https://www.linkedin.com/in/ethanckim
-</p>
-<br>
-<br>
--->
 
-<!--
-[![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanckim&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
--->
