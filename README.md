@@ -23,7 +23,7 @@
 ### 💬 Languages I use
 
  - 🖥 I know these a lot (Proficient):
-    **C/C++, Python, MATLAB**
+    **C/C++, SystemVerilog, Python, MATLAB**
  - 💭 I kinda know these (Familiar):
     **JavaScript, Java, Rust**
  - 🔨 Here are some tools that I use:
