@@ -23,9 +23,9 @@
 ### 💬 Languages I use
 
  - 🖥 I know these a lot (Proficient):
-    **C/C++, SystemVerilog, Python, MATLAB**
+    **C/C++, SystemVerilog, Rust, Python, MATLAB**
  - 💭 I kinda know these (Familiar):
-    **JavaScript, Java, Rust**
+    **JavaScript, Java**
  - 🔨 Here are some tools that I use:
     <br>
     Technology: **Arduino, ROS Noetic, Linux, PlatformIO**
