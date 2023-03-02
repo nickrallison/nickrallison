@@ -28,7 +28,7 @@
     **JavaScript, Java**
  - 🔨 Here are some tools that I use:
     <br>
-    Technology: **Linux, ROS (Robot Operating System), Linux, Arduino, PlatformIO**
+    Technology: **Linux, ROS (Robot Operating System), Arduino, PlatformIO**
     <br>
     Version Control: **Git**
     <br>
