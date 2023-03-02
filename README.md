@@ -15,7 +15,7 @@
 
 ### Things I love:
 
-- C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- C++ & Rust 🦀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Electronics ⚡
 - Learning New Things 📚
 
