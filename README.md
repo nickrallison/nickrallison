@@ -32,6 +32,6 @@
     Some Designing: **Fusion360, OpenSCAD, LTSpice**
     <br>
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrallison&layout=compact&langs_count=10&exclude_repo="nix"&hide=scheme,html,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrallison&layout=compact&langs_count=10&exclude_repo="nix"&hide=scheme,html,scss,javascript,css,liquid)](https://github.com/anuraghazra/github-readme-stats)
  
 
