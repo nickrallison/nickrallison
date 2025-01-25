@@ -15,6 +15,7 @@
 
 - C++ & Rust 🦀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Electronics ⚡
+  - Also Scala & Chisel
 - Learning New Things 📚
 
 
